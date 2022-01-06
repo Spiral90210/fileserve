@@ -154,7 +154,8 @@ tags
 
 ### VisualStudioCode ###
 .vscode/*
-!.vscode/settings.json
+# I removed this because I have auto colouring on and it adds settings that don't need shared
+#!.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json

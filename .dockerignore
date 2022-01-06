@@ -1,0 +1,6 @@
+.vscode/
+.gitignore
+README.MD
+testdata/
+Makefile
+build-docker.sh
